@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/Grocery-Delivery-Application",
+  "jwtSecret": "09ZB64wb9OwSkLNt/+WdVifvAE4ySiE1hx1Q9cnkkdU="
+}
