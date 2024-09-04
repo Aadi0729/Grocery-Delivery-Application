@@ -17,3 +17,8 @@ Runs the server continuously using the nodemon package. The server will automati
 ### `npm run dev`
 
 Uses concurrently to run both the server and the client at the same time. The client-side code (React) runs on Port 3000. The server-side code (Node) runs on Port 5000.
+
+### Connect with me :
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapateriya7986@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pateriya7781/)
